@@ -70,9 +70,15 @@ h4 {
   font-size: 48px;
   line-height: 1.1;
 
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
+.hero__title_science {
+  font-size: 14px;
+  line-height: 1.1;
+
+  margin-bottom: 20px;
+}
 .hero__prof {
   color: #4facfe;
   white-space: nowrap;
@@ -143,7 +149,7 @@ margin-bottom: 10px;
   
   .hero__title_science {
   font-size: 14px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   }
 
   .hero__subtitle {
