@@ -93,6 +93,11 @@ font-size: 22px;
 font-weight: 200;
 }
 
+.hero__work_subtitle {
+  font-size: 32px;
+  font-weight: 400;
+}
+
 .hero__links {
   display: flex;
 }
@@ -155,6 +160,11 @@ font-weight: 200;
   font-weight: 200;
   }
   
+  .hero__work_subtitle {
+  font-size: 32px;
+  font-weight: 400;
+}
+
   .hero__description {
     font-size: 14px;
   }
