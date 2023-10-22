@@ -16,12 +16,8 @@ img {
 
 h1,
 h2,
-h3 {
-  margin: 0;
-},
-h4 {
-  margin: 0;
-}
+h3,
+h4
 
 
 .header {
@@ -77,7 +73,7 @@ h4 {
   font-size: 14px;
   line-height: 1.1;
 
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .hero__prof {
   color: #4facfe;
@@ -93,12 +89,6 @@ h4 {
 .hero__work_title {
 font-size: 22px;
 font-weight: 200;
-}
-
-.hero__work_subtitle {
-font-size: 22px;
-font-weight: 200;
-margin-bottom: 10px;
 }
 
 .hero__links {
