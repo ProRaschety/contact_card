@@ -79,6 +79,7 @@ h4 {
 .hero__subtitle {
   font-size: 32px;
   font-weight: 400;
+  margin-bottom: 10px;
 }
 
 .hero__work_title {
