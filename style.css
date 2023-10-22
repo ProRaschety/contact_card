@@ -81,7 +81,7 @@ h4
 }
 
 .hero__subtitle {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 400;
   margin-bottom: 10px;
 }
@@ -151,12 +151,6 @@ font-weight: 200;
   .hero__work_title {
   font-size: 22px;
   font-weight: 200;
-  }
-
-  .hero__work_subtitle {
-  font-size: 22px;
-  font-weight: 200;
-  margin-bottom: 10px;
   }
   
   .hero__description {
