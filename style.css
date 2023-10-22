@@ -16,7 +16,8 @@ img {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   margin: 0;
 }
 
@@ -76,6 +77,16 @@ h3 {
 }
 
 .hero__subtitle {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.hero__work_title {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.hero__work_subtitle {
   font-size: 32px;
   font-weight: 400;
 }
